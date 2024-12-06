@@ -53,45 +53,8 @@ Vào được như hình dưới  là chúng ta đã cài đặt thành công
 ![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh3.png)
 <br><br>
 #### Nếu hiển thị như bước thứ 5 trong hình ảnh trên là quá trình khởi tạo databse thành công.
-## 4.	Hướng dẫn train model với YOLOv8 trên GOOGLE COLAB
-## B1: Tạo thư mục trên Driver sau đó Upload thư mục DATA lên google Driver, trình tự thực hiện như hình bên dưới.
-<br><br>
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh4.png)
-<br><br>
-### B2: Sau khi tạo file trên Google Colab , tiến hành liên kết với driver và cài đặt YOLOv8 trên google Colab
-<br><br>
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh5.png)
-<br><br>
-### B3: Chạy lệnh huấn luyện với thư mục DATA vừa upload lên google Driver ở B1
-<br><br>
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh6.png)
-<br><br>
-## 5.	Hướng dẫn chạy Project với Pycharm
-### B1: Download python_project về máy tính. 
-### B2: Vào thư mục python_project.
-### B3: Tiến hành mở “python_project” với Pycharm như hình bên dưới.
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh7.png)
- 
-### B4: Sau khi mở dự án với Pycharm tiến hành cài đặt các thư viện như hình bên dưới.
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh8.png)
- 
-- Nếu một số File bị lỗi thư viện thì tiến hành cài đặt thư viện đó bằng 2 cách như bên dưới:
-#### Cách 1: Sử dụng terminal: 
-- Cách thực hiện: Mở lệnh terminal và gõ lệnh : 
-`Pip install [tên thư viên bị lỗi]` 
-#### Cách 2: Cài đặt thư viện thông qua phần mềm Pycharm như hình dưới.
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh9.png)
 
-### B5:  Sau khi cài đặt tất cả các thư viện thành công, vào file app_server và chạy chương trình
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh10.png)
- 
--	Kết quả cuối cùng:
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh11.png)
 <br><br>
-**Xem video demo tại đây:**
-   [![Video Demo](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh11.png)](https://www.youtube.com/watch?v=Z-aQCrljl3A)
-
-# Liên hệ
 
 ## LINK DATA: https://drive.google.com/drive/folders/11oZ_8a5AruNIbdNrFhRMT1qtCelaf9Xu?usp=sharing
 <br><br>
