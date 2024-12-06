@@ -10,7 +10,7 @@
 ## Triển khai lên web sử dụng [Flask](https://flask.palletsprojects.com/en/2.3.x/) và Database [MYSQL](https://www.mysql.com/)
 ![Hình ảnh](https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png)
 # Python version
-This project was generated with [Python](https://www.python.org/downloads/release/python-3913/) version 3.9.13.
+This project was generated with [Python](https://www.python.org/downloads/release/python-3913/) version 3.9.20.
 # YOLO version
 This project was generated with [YOLO](https://github.com/autogyro/yolo-V8) version YOLOV8..
 <p float="left">
