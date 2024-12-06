@@ -10,7 +10,7 @@
 ## Triển khai lên web sử dụng [Flask](https://flask.palletsprojects.com/en/2.3.x/) và Database [MYSQL](https://www.mysql.com/)
 ![Hình ảnh](https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png)
 # Python version
-This project was generated with [Python](https://www.python.org/downloads/release/python-3913/) version 3.9.20.
+This project was generated with [Python](https://www.python.org/downloads/release/python-3920/) version 3.9.20.
 # YOLO version
 This project was generated with [YOLO](https://github.com/autogyro/yolo-V8) version YOLOV8..
 <p float="left">
@@ -41,21 +41,12 @@ Vào được như hình dưới  là chúng ta đã cài đặt thành công
 ### Link youtube hướng dẫn: 
 - https://www.youtube.com/watch?v=0Jt6npqCmU4
 ### 2.2.2.	Tải và cài đặt Python 
-#### Lưu ý : Chúng ta nên cài đặt Python version 3.9.13 đối với windown 10 hoặc có thể cài đặt Python version: 3.10 phiên bản mới nhất đối với windown 11 thì mới có thể chạy được project với YOLOv8.
-### Link download python 3.9.13:
-- https://www.python.org/downloads/release/python-3913/
+#### Lưu ý : Chúng ta nên cài đặt Python version 3.9.20 đối với windown 10 hoặc có thể cài đặt Python version: 3.11 phiên bản mới nhất đối với windown 11 thì mới có thể chạy được project với YOLOv8.
+### Link download python 3.9.20:
+- https://www.python.org/downloads/release/python-3920/
 ### Link youtube hướng dẫn:
 - https://www.youtube.com/watch?v=tgG2BjygiAM
-## 3.	Hướng dẫn thực hiện tạo bảng cở sở dữ liệu trong MySQL
-### B1: Sau khi tải và đăng nhập vào MySQL (giao diện như mục 2.1 hình thứ 2).
-### B2: Mở file “codeDatabase.txt” => Copy nội code => đưa vào MYSQL và chạy code bên MySQL. Trình tự thực hiện như hình bên dưới.
 <br><br>
-![Hình ảnh](https://raw.githubusercontent.com/LHHT-DISCOVERY/YOLOv8-Traffic-Monitoring-Systems/main/IMG_IMPL/%E1%BA%A2nh3.png)
-<br><br>
-#### Nếu hiển thị như bước thứ 5 trong hình ảnh trên là quá trình khởi tạo databse thành công.
-
-<br><br>
-
 ## LINK DATA: https://drive.google.com/drive/folders/11oZ_8a5AruNIbdNrFhRMT1qtCelaf9Xu?usp=sharing
 <br><br>
 
