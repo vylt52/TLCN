@@ -1,4 +1,4 @@
-# YOLOv8-Traffic-Monitoring-System
+# TLCN
 **Đây là một hệ thống giám sát giao thông sử dụng thuật toán YOLO và ngôn ngữ lập trình Python.**
 ## Hệ thống này được thiết kế để nhận diện các phương tiện giao thông trên đường gồm 5 loại ( xe máy , xe đạp , xe ô tô , xe tải , xe bus)
 ## Một số tính năng chính 
