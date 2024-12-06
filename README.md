@@ -47,7 +47,7 @@ Vào được như hình dưới  là chúng ta đã cài đặt thành công
 ### Link youtube hướng dẫn:
 - https://www.youtube.com/watch?v=tgG2BjygiAM
 <br><br>
-## LINK DATA: https://drive.google.com/drive/folders/11oZ_8a5AruNIbdNrFhRMT1qtCelaf9Xu?usp=sharing
+## LINK DATA: https://drive.google.com/drive/folders/1HXqYtNNk9sEE5loW5pcxgs8PE2oCCtYv?usp=sharing
 <br><br>
 
 
